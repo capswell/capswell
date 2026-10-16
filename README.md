@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-🎓 Control Engineering Graduate Student @ Shandong University
+## 😄 About Me
 
-🤖 Interested in **Robotics, Reinforcement Learning & Embodied AI**
+Hi, it's Zihao here, a Control Engineering graduate student at Shandong University.
 
-### 🔬 Research Interests
-- Robotic Manipulation
-- Reinforcement Learning for Robot Control
-- Embodied AI
+🤖 Research Interests:🧠 Embodied Intelligence, Reinforcement Learning,🚗 Autonomous Driving.
+
+📝 This repository is created to record and share my learning notes, research progress, and hands-on robotics projects.
+
+📫 You can contact me via my email: 1285363727@qq.com
 
 
 
